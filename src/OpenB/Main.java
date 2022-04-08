@@ -22,6 +22,6 @@ class Coche {
     public int numPuertas = 0;
 
     public void sumPuertas() {
-        numPuertas++;
+        this.numPuertas++;
     }
 }
