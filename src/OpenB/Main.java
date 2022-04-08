@@ -8,6 +8,7 @@ public class Main {
 
         Coche miCoche = new Coche();
         miCoche.sumPuertas();
+        System.out.println(miCoche.numPuertas);
         miCoche.sumPuertas();
         System.out.println(miCoche.numPuertas);
     }
